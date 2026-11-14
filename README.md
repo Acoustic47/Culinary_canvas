@@ -2,6 +2,7 @@
 
 **CulinaryCanvas** is a hyper-smooth, luxury food discovery and delivery web application built as a modern alternative to traditional food aggregators like Zomato. Abandoning aggressive saturated red banners, CulinaryCanvas embraces an obsidian slate palette, electric sage accents, frosted glassmorphism surfaces, and typography blending Plus Jakarta Sans with editorial display serifs (Playfair Display & Fraunces).
 
+Please note: This is a demonstration project, not a live food delivery service. Restaurant listings, orders, delivery tracking, GPS movement, courier communication, and payment-related experiences are simulated using sample data. No real orders or deliveries take place.
 ---
 
 ## 🎨 Visual Identity & Aesthetic System
